@@ -22,7 +22,7 @@
 
 1. **Клонируйте репозиторий:**
    ```
-   git clone [https://github.com/Raven-Vitos/NuxtTaskTracker.git](https://github.com/Raven-Vitos/NuxtTaskTracker.git)
+   git clone https://github.com/Raven-Vitos/NuxtTaskTracker.git
    cd NuxtTaskTracker
    ```
 
